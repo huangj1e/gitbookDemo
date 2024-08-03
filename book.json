@@ -1,0 +1,92 @@
+{
+  "author": "huangj1e",
+  "title": "订制推独立站使用手册",
+  "description": "开启你的独立站之旅",
+  "language": "zh-hans",
+  "extension": null,
+  "generator": "site",
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {}
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "chapter-fold",
+    "anchor-navigation-ex",
+    "popup",
+    "tbfed-pagefooter",
+    "favicon",
+    "flexible-alerts"
+  ],
+  "pluginsConfig": {
+    "font-settings": {
+      "family": "sans",
+      "size": 2
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy 订制推 2024",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "chapter-fold": {},
+    "anchor-navigation-ex": {
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right",
+      "multipleH1": false,
+      "multipleH2": false,
+      "multipleH3": false,
+      "multipleH4": false,
+      "showLevelIcon": false,
+      "showLevel": false
+    },
+    "favicon": {
+      "shortcut": "gitbook/images/favicon.ico",
+      "bookmark": "gitbook/images/favicon.ico",
+      "appleTouch": "gitbook/images/favicon.ico",
+      "appleTouchMore": {
+        "120x120": "gitbook/images/favicon.ico",
+        "180x180": "gitbook/images/favicon.ico"
+      },
+      "android": "gitbook/images/favicon.ico",
+      "win10": "gitbook/images/favicon.ico"
+    },
+    "flexible-alerts": {
+      "note": {
+        "label": "笔记"
+      },
+      "tip": {
+        "label": "提示"
+      },
+      "warning": {
+        "label": "警告"
+      },
+      "danger": {
+        "label": "危险"
+      }
+    }
+  },
+  "variables": {}
+}
