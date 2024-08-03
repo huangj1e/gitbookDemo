@@ -2,6 +2,8 @@
 
 * [Welcome](README.md)
 
+* [demo](demo.md)
+
 ## Getting Started
 
 * [Setup Guide](getting-started/setup-guide.md)
