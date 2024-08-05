@@ -65,3 +65,6 @@
   - [消息队列](/store/消息队列.md)
   - [计划任务](/store/计划任务.md)
   - [模板](/store/模板.md)
+
+
+- [主题预览](/themesPreview/主题清单.md)
